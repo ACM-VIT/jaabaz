@@ -192,15 +192,24 @@
               <a class="work__link link-page">
                 <h2 class="work__title">Baja SAE</h2>
                 <p class="work__tags">
-                  Baja SAE is an intercollegiate design competition run by
-                  the Society of Automotive Engineers (SAE). Student teams from universities all over the world design and build
-                  small off-road cars. The cars have 10 bhp (7.5kW) engines.
-                  The off road car manufactured has to follow certain safety
-                  rules as specified in Baja SAE rulebook. The goal in Baja
-                  SAE racing is to design, build and race off-road vehicles that
-                  can withstand the harshest elements of rough terrain. The
-                  vehicles used in Baja SAE racing are often similar in
-                  appearance to dune buggies.
+                BAJA SAE is an collegiate design competition run by the Society
+                of Automotive Engineers International (SAE International). This
+                competition originated at the University of South Carolina in
+                1976 and since that time, it has been grown to become a chief
+                engineering design series for undergraduate  university teams
+                from all over the world. BAJA SAE engage the students with a
+                stimulating forecast that involves the planning and manufacturing
+                tasks found , when introducing a single seater four-wheeled ATV
+                to the consumer industrial market. The event organizers also
+                provide students with a particular set of rules every year
+                for competing with other teams. In elaboration, Each team go
+                in for a series of events lay out across a route of 3 days
+                that examine vehicle for the set off engineering operations.
+                These operations comprise of different passive and spirited
+                events that include design analysis, cost report, sales
+                presentation, technical inspection, fortitude race, traction
+                event and maneuverability, brake inspection, marketing tactics,
+                escalation of ATV and significantly more.
                 </p>
               </a>
             </div>
@@ -219,17 +228,16 @@
               <a class="work__link link-page">
                 <h2 class="work__title">Team Jaabaz</h2>
                 <p class="work__tags">
-                  We, Team Jaabaz, are a team of undergraduate students
-
-                  operating out of VIT University Vellore, and we manufacture
-
-                  an All-Terrain Vehicle, indigenously designed, every year and
-
-                  compete with teams internationally, in Baja SAE
-
-                  competitions organized by the Society of Automotive
-
-                  Engineers (SAE) in the United States of America.
+                Team Jaabaz is a Baja SAE team at VIT University,  Vellore, India, that started
+                its journey from 2009. We are a team of undergraduate students operating out of
+                VIT University Vellore, and we manufacture an All-Terrain Vehicle, indigenously
+                designed, every year and compete with teams internationally, in Baja SAE competitions
+                organized by the Society of Automotive Engineers (SAE) in the United States of
+                America.<br>
+                Our team is manufacturing an ATV every year that is used to symbolize our passion
+                and engrossment towards automotive engineering. Our team members used to do exertion
+                for almost 4 to5 hours in our workshop with studies. We are flourishing our minds
+                not only with studies but also with the varying tactics in our workshop.
                 </p>
 
               </a>
